@@ -1,0 +1,6 @@
+2026-10-15;Carlos Silva;350.80
+2026-10-15;Ana Souza;1250.00
+2026-10-15;Bruno Lima;89.90
+2026-10-15;Mariana Oliveira;740.50
+2026-10-15;Fernanda Rocha;2100.00
+2026-10-15;Rodrigo Santos;450.00
